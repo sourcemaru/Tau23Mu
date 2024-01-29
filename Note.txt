@@ -1,0 +1,1 @@
+xrdcp -v root://dcache-cms-webdav-wan.desy.de://store/data/Run2018A/DoubleMuonLowMass/NANOAOD/UL2018_MiniAODv1_NanoAODv2-v1/00000/A7B3277F-3121-6445-BF68-80C6C2C1DFBF.root .
